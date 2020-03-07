@@ -1,0 +1,11 @@
+# Last Modified: Sun Sep 15 13:07:33 2019
+#include <tunables/global>
+
+/usr/lib/proxychains3/proxyresolv {
+  #include <abstractions/base>
+  #include <abstractions/bash>
+
+  /usr/bin/dash ix,
+  /usr/lib/proxychains3/proxyresolv r,
+
+}

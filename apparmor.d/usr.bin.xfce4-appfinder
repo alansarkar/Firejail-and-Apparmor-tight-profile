@@ -1,0 +1,9 @@
+# Last Modified: Mon Aug 26 19:26:42 2019
+#include <tunables/global>
+
+/usr/bin/xfce4-appfinder {
+  #include <abstractions/base>
+
+  /usr/bin/xfce4-appfinder mr,
+
+}

@@ -1,0 +1,9 @@
+# Last Modified: Wed Aug 14 17:53:45 2019
+#include <tunables/global>
+
+/usr/lib/palemoon/palemoon {
+  #include <abstractions/base>
+
+  /usr/lib/palemoon/palemoon mr,
+
+}

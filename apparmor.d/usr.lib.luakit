@@ -1,0 +1,7 @@
+# Last Modified: Thu Oct 17 05:48:58 2019
+#include <tunables/global>
+
+/usr/lib/luakit {
+  #include <abstractions/base>
+
+}

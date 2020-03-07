@@ -1,0 +1,7 @@
+# Last Modified: Tue Oct 15 11:06:23 2019
+#include <tunables/global>
+
+/usr/lib/xorg {
+  #include <abstractions/base>
+
+}

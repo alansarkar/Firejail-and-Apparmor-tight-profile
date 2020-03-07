@@ -1,0 +1,9 @@
+# Last Modified: Sun Aug 18 14:20:21 2019
+#include <tunables/global>
+
+/usr/bin/links {
+  #include <abstractions/base>
+
+  /usr/bin/links mr,
+
+}

@@ -1,0 +1,10 @@
+# Last Modified: Sun Jul 21 06:37:01 2019
+#include <tunables/global>
+
+/usr/bin/firejail flags=(complain) {
+  #include <abstractions/base>
+
+  /lib/x86_64-linux-gnu/ld-*.so mr,
+  /usr/bin/firejail mr,
+
+}

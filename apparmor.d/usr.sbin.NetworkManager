@@ -1,0 +1,9 @@
+# Last Modified: Sat Aug 31 11:36:17 2019
+#include <tunables/global>
+
+/usr/sbin/NetworkManager {
+  #include <abstractions/base>
+
+  /usr/sbin/NetworkManager mr,
+
+}

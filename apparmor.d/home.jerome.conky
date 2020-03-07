@@ -1,0 +1,9 @@
+# Last Modified: Sat Aug 31 04:40:01 2019
+#include <tunables/global>
+
+/home/jerome/conky {
+  #include <abstractions/base>
+
+  /home/jerome/conky mr,
+
+}

@@ -1,0 +1,11 @@
+# Last Modified: Sat Aug 31 11:39:26 2019
+#include <tunables/global>
+
+/usr/bin/rtv {
+  #include <abstractions/base>
+  #include <abstractions/python>
+
+  /usr/bin/python3.7 ix,
+  /usr/bin/rtv r,
+
+}

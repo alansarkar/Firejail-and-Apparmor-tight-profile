@@ -1,0 +1,10 @@
+# Last Modified: Wed Aug 28 06:53:15 2019
+#include <tunables/global>
+
+/home/jerome/tor-browser_en-US/Browser/start-tor-browser {
+  #include <abstractions/base>
+
+  /home/jerome/tor-browser_en-US/Browser/start-tor-browser r,
+  /usr/bin/env ix,
+
+}

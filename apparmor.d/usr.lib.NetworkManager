@@ -1,0 +1,7 @@
+# Last Modified: Sat Aug 31 11:44:41 2019
+#include <tunables/global>
+
+/usr/lib/NetworkManager {
+  #include <abstractions/base>
+
+}

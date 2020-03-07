@@ -1,0 +1,7 @@
+# Last Modified: Sat Sep  7 13:10:29 2019
+#include <tunables/global>
+
+/usr/lib/x86_64-linux-gnu/torsocks {
+  #include <abstractions/base>
+
+}

@@ -1,0 +1,7 @@
+# Last Modified: Tue Oct 15 07:30:22 2019
+#include <tunables/global>
+
+/usr/lib/x86_64-linux-gnu/pcmanfm {
+  #include <abstractions/base>
+
+}

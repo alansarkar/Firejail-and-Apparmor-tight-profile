@@ -1,0 +1,9 @@
+# Last Modified: Sat Aug 31 04:41:50 2019
+#include <tunables/global>
+
+/usr/bin/conky {
+  #include <abstractions/base>
+
+  /usr/bin/conky mr,
+
+}

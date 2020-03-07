@@ -1,0 +1,9 @@
+# Last Modified: Sun Oct  6 01:46:26 2019
+#include <tunables/global>
+
+/usr/bin/curl {
+  #include <abstractions/base>
+
+  /usr/bin/curl mr,
+
+}

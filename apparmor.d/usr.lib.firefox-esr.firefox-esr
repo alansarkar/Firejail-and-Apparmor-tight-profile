@@ -1,0 +1,9 @@
+# Last Modified: Mon Aug 19 10:12:29 2019
+#include <tunables/global>
+
+/usr/lib/firefox-esr/firefox-esr {
+  #include <abstractions/base>
+
+  /usr/lib/firefox-esr/firefox-esr mr,
+
+}

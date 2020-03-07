@@ -1,0 +1,9 @@
+# Last Modified: Mon Aug 26 19:06:01 2019
+#include <tunables/global>
+
+/usr/bin/mplayer {
+  #include <abstractions/base>
+
+  /usr/bin/mplayer mr,
+
+}

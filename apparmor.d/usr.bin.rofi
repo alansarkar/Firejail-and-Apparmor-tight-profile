@@ -1,0 +1,9 @@
+# Last Modified: Mon Aug 26 19:29:29 2019
+#include <tunables/global>
+
+/usr/bin/rofi {
+  #include <abstractions/base>
+
+  /usr/bin/rofi mr,
+
+}

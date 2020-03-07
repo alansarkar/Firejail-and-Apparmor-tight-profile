@@ -1,0 +1,9 @@
+# Last Modified: Thu Feb 14 05:29:36 2019
+#include <tunables/global>
+
+/usr/bin/qemu-system-x86_64 {
+  #include <abstractions/base>
+
+  /usr/bin/qemu-system-x86_64 mr,
+
+}

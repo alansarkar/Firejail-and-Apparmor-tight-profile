@@ -1,0 +1,9 @@
+# Last Modified: Thu Oct 24 09:01:05 2019
+#include <tunables/global>
+
+/usr/bin/ssh-agent {
+  #include <abstractions/base>
+
+  /usr/bin/ssh-agent mr,
+
+}

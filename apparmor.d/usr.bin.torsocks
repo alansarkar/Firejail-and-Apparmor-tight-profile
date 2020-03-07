@@ -1,0 +1,11 @@
+# Last Modified: Mon Aug 26 19:10:16 2019
+#include <tunables/global>
+
+/usr/bin/torsocks {
+  #include <abstractions/base>
+  #include <abstractions/bash>
+
+  /usr/bin/dash ix,
+  /usr/bin/torsocks r,
+
+}

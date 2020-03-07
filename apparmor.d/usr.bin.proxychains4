@@ -1,0 +1,9 @@
+# Last Modified: Sun Sep 15 13:08:17 2019
+#include <tunables/global>
+
+/usr/bin/proxychains4 {
+  #include <abstractions/base>
+
+  /usr/bin/proxychains4 mr,
+
+}

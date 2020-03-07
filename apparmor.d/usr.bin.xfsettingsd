@@ -1,0 +1,9 @@
+# Last Modified: Mon Aug 26 19:08:22 2019
+#include <tunables/global>
+
+/usr/bin/xfsettingsd {
+  #include <abstractions/base>
+
+  /usr/bin/xfsettingsd mr,
+
+}

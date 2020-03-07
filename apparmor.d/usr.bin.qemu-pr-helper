@@ -1,0 +1,9 @@
+# Last Modified: Thu Feb 14 05:29:56 2019
+#include <tunables/global>
+
+/usr/bin/qemu-pr-helper {
+  #include <abstractions/base>
+
+  /usr/bin/qemu-pr-helper mr,
+
+}

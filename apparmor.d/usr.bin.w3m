@@ -1,0 +1,9 @@
+# Last Modified: Sun Aug 18 14:19:50 2019
+#include <tunables/global>
+
+/usr/bin/w3m {
+  #include <abstractions/base>
+
+  /usr/bin/w3m mr,
+
+}

@@ -1,0 +1,9 @@
+# Last Modified: Sat Aug 31 13:42:14 2019
+#include <tunables/global>
+
+/usr/bin/volumeicon {
+  #include <abstractions/base>
+
+  /usr/bin/volumeicon mr,
+
+}

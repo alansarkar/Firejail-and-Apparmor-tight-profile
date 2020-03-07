@@ -1,0 +1,9 @@
+# Last Modified: Tue Oct 15 07:28:54 2019
+#include <tunables/global>
+
+/usr/bin/pcmanfm {
+  #include <abstractions/base>
+
+  /usr/bin/pcmanfm mr,
+
+}

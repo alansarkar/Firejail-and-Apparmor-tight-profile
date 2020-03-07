@@ -1,0 +1,9 @@
+# Last Modified: Thu Aug 15 01:57:00 2019
+#include <tunables/global>
+
+/usr/bin/aria2c {
+  #include <abstractions/base>
+
+  /usr/bin/aria2c mr,
+
+}

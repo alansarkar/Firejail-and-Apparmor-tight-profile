@@ -1,0 +1,9 @@
+# Last Modified: Mon Aug 26 19:06:35 2019
+#include <tunables/global>
+
+/usr/bin/zip {
+  #include <abstractions/base>
+
+  /usr/bin/zip mr,
+
+}
